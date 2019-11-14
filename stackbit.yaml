@@ -9,8 +9,8 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 metadata:
-  title: Azimuth
-  description: A sleek SaaS theme
+  title: FJSHomeplate
+  description: 
   author: Stackbit
   authorURL: 'https://www.stackbit.com'
   images:
